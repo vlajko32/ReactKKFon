@@ -1,0 +1,11 @@
+.navbarText {
+    color: #fff;
+    text-align: center;
+    margin-top: auto;
+    padding-top: auto;
+    font-size: 30px;
+}
+.navbarTime{
+    position: absolute;
+    right: 40px;
+}

@@ -7,8 +7,9 @@
 }
 
 body {
-  /*background: url('https://t3.ftcdn.net/jpg/01/86/37/02/360_F_186370264_kA17cbcs2v3HHPvFt1r3gR59JlePN82y.jpg') center center/cover no-repeat;
- */ font-family: 'Poppins', sans-serif;
+  background: url('https://t3.ftcdn.net/jpg/01/86/37/02/360_F_186370264_kA17cbcs2v3HHPvFt1r3gR59JlePN82y.jpg') center center/cover repeat;
+  font-family: 'Poppins', sans-serif;
+  
 }
 
 .container {
